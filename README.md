@@ -17,4 +17,9 @@ Prototypes cut at [LVL1 Hackerspace, Louisville, KY](http://lvl1.org), Thanks LV
 
 
 
+###To Do
+* Look into making version of design for 1/4" material since 1/4" X 24"x 24" is a standard size for Plexiglass acrylic)
+* Est cost for 2 sheets of 1/4" X 24"x 24" Acrylic is $42
+
+
 
