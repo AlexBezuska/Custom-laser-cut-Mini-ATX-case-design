@@ -1,6 +1,6 @@
 # Custom laser cut Mini ATX case design
 
-![alt tag](./images/prototype3.png)
+![alt tag](./images/prototype3.jpg)
 I am currently on prototype v3 and it is basically working other than the pci slots in the rear.
 
 ![alt tag](./images/case.png)
