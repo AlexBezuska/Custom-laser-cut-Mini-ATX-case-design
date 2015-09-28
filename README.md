@@ -1,5 +1,8 @@
 # Custom laser cut Mini ATX case design
 
+![alt tag](./images/prototype3.png)
+I am currently on prototype v3 and it is basically working other than the pci slots in the rear.
+
 ![alt tag](./images/case.png)
 ![alt tag](./images/case-sides.png)
 Prototypes cut at [LVL1 Hackerspace, Louisville, KY](http://lvl1.org), Thanks LVL1!
@@ -14,7 +17,7 @@ Prototypes cut at [LVL1 Hackerspace, Louisville, KY](http://lvl1.org), Thanks LV
 * 2x 2'x4' sheets of .2in (5.08mm) thick material (wood or acrylic probably ideal)
 * 2x 1/4in threaded rod (allthread)
 * 8x 1/4in nuts
-* 4x 1/4 threaded case feet
+* Briwax dark brown staining wax
 
 
 
